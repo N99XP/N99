@@ -6,7 +6,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-- 📫Linkedin **https://www.linkedin.com/in/neeraj-purohit-69a710201/**
+- 📫Linkedin  https://www.linkedin.com/in/neeraj-purohit-69a710201/
 <p align="left">
 </p>
 
